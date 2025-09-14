@@ -1,11 +1,12 @@
 # ToDoAppReact
 
-A simple and efficient Todo List application built with **React.js** and **Tailwind CSS**.  
+A simple and efficient Todo List application built with React.js and Tailwind CSS.  
 This app helps manage daily tasks with features to add, edit, delete, and mark tasks as complete.  
-All tasks are persisted using **LocalStorage**.
+All tasks are persisted using LocalStorage.
 
 ---
-## 🔗 Live Demo
+
+## Live Demo
 
 The project is deployed and accessible here:  
 [https://task-management-system-one-tawny.vercel.app](https://task-management-system-one-tawny.vercel.app)
@@ -14,21 +15,21 @@ The project is deployed and accessible here:
 
 ## Features
 
-- Add new todos  
-- Edit existing todos  
-- Delete todos  
-- Mark todos as completed or not completed  
-- Toggle visibility of completed tasks  
-- Persistent storage with LocalStorage  
+- Add new todos
+- Edit existing todos
+- Delete todos
+- Mark todos as completed or not completed
+- Toggle visibility of completed tasks
+- Persistent storage with LocalStorage
 
 ---
 
 ## Tech Stack
 
-- [React.js](https://react.dev/) – Frontend framework  
-- [Tailwind CSS](https://tailwindcss.com/) – Styling and UI design  
-- [UUID](https://www.npmjs.com/package/uuid) – Unique IDs for todos  
-- LocalStorage – Data persistence  
+- React.js – Frontend framework
+- Tailwind CSS – Styling and UI design
+- UUID – Unique IDs for todos
+- LocalStorage – Data persistence
 
 ---
 
