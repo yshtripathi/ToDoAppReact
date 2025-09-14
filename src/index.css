@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom background for the app */
+body {
+  @apply bg-gradient-to-r from-violet-50 via-violet-100 to-violet-200;
+}
