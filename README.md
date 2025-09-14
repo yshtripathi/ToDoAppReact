@@ -5,6 +5,12 @@ This app helps manage daily tasks with features to add, edit, delete, and mark t
 All tasks are persisted using **LocalStorage**.
 
 ---
+## 🔗 Live Demo
+
+The project is deployed and accessible here:  
+[https://task-management-system-one-tawny.vercel.app](https://task-management-system-one-tawny.vercel.app)
+
+---
 
 ## Features
 
